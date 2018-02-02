@@ -1,14 +1,14 @@
-<?php namespace Bantenprov\AngkaHarapanHidup\Console\Commands;
+<?php namespace Bantenprov\DDGuru\Console\Commands;
 
 use Illuminate\Console\Command;
 
 /**
- * The AngkaHarapanHidupCommand class.
+ * The DDGuruCommand class.
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-class AngkaHarapanHidupCommand extends Command
+class DDGuruCommand extends Command
 {
 
     /**
@@ -16,14 +16,14 @@ class AngkaHarapanHidupCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'bantenprov:angka-harapan-hidup';
+    protected $signature = 'bantenprov:dd-guru';
 
     /**
      * The console command description.
      *
      * @var string
      */
-    protected $description = 'Demo command for Bantenprov\AngkaHarapanHidup package';
+    protected $description = 'Demo command for Bantenprov\DDGuru package';
 
     /**
      * Create a new command instance.
@@ -42,6 +42,6 @@ class AngkaHarapanHidupCommand extends Command
      */
     public function handle()
     {
-        $this->info('Welcome to command for Bantenprov\AngkaHarapanHidup package');
+        $this->info('Welcome to command for Bantenprov\DDGuru package');
     }
 }

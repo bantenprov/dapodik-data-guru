@@ -8,7 +8,7 @@
             <div class="media">
               <div class="media-body text-truncate">
                 <div class="card-body">
-                  <angka-harapan-hidup-bar-03></angka-harapan-hidup-bar-03>
+                  <dd-guru-bar-03></dd-guru-bar-03>
                 </div><!-- /.card-body -->
               </div>
             </div>
@@ -21,7 +21,7 @@
             <div class="media">
               <div class="media-body text-truncate">
                 <div class="card-body">
-                  <angka-harapan-hidup-pie-03></angka-harapan-hidup-pie-03>
+                  <dd-guru-pie-03></dd-guru-pie-03>
                 </div><!-- /.card-body -->
               </div>
             </div>
@@ -52,10 +52,10 @@
           <div class="card mb-3">
             <div class="card-header">
               <i class="fa fa-bar-chart" aria-hidden="true"></i>
-              Angka Harapan Hidup Berdasarkan Wilayah
+              Dapodik Data Guru Berdasarkan Wilayah
             </div>
             <div class="card-body">
-              <angka-harapan-hidup-bar-01></angka-harapan-hidup-bar-01>
+              <dd-guru-bar-01></dd-guru-bar-01>
             </div><!-- /.card-body -->
           </div><!-- /.card -->
 
@@ -67,10 +67,10 @@
           <div class="card mb-3">
             <div class="card-header">
               <i class="fa fa-pie-chart" aria-hidden="true"></i>
-              Angka Harapan Hidup Berdasarkan Wilayah
+              Dapodik Data Guru Berdasarkan Wilayah
             </div>
             <div class="card-body">
-              <angka-harapan-hidup-pie-01></angka-harapan-hidup-pie-01>
+              <dd-guru-pie-01></dd-guru-pie-01>
             </div><!-- /.card-body -->
           </div><!-- /.card -->
 
@@ -83,10 +83,10 @@
         <div class="card mb-3">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Angka Harapan Hidup Berdasarkan Tahun
+            Dapodik Data Guru Berdasarkan Tahun
           </div>
           <div class="card-body">
-            <angka-harapan-hidup-pie-02></angka-harapan-hidup-pie-02>
+            <dd-guru-pie-02></dd-guru-pie-02>
           </div><!-- /.card-body -->
         </div><!-- /.card -->
       </div><!-- /.col -->
@@ -96,10 +96,10 @@
         <div class="card mb-3">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Angka Harapan Hidup Berdasarkan Tahun
+            Dapodik Data Guru Berdasarkan Tahun
           </div>
           <div class="card-body">
-            <angka-harapan-hidup-bar-02></angka-harapan-hidup-bar-02>
+            <dd-guru-bar-02></dd-guru-bar-02>
           </div><!-- /.card-body -->
         </div><!-- /.card -->
 
@@ -126,11 +126,11 @@
                   <td>780–850</td>
                 </tr>
                 <tr>
+                <tr>
                   <th scope="row">2</th>
                   <td>Abu Ali Al-Husein Ibnu Sina</td>
                   <td>986-1037</td>
                 </tr>
-                <tr>
                   <th scope="row">3</th>
                   <td>Abu Nasir Al-Farabi</td>
                   <td>870-900</td>

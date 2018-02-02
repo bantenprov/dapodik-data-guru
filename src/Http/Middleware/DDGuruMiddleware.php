@@ -1,14 +1,14 @@
-<?php namespace Bantenprov\AngkaHarapanHidup\Http\Middleware;
+<?php namespace Bantenprov\DDGuru\Http\Middleware;
 
 use Closure;
 
 /**
- * The AngkaHarapanHidupMiddleware class.
+ * The DDGuruMiddleware class.
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-class AngkaHarapanHidupMiddleware
+class DDGuruMiddleware
 {
 
     /**

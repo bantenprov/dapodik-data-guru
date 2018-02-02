@@ -1,1 +1,1 @@
-This is demo view file for Bantenprov\AngkaHarapanHidup package using blade template
+This is demo view file for Bantenprov\DDGuru package using blade template

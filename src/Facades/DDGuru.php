@@ -1,14 +1,14 @@
-<?php namespace Bantenprov\AngkaHarapanHidup\Facades;
+<?php namespace Bantenprov\DDGuru\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * The AngkaHarapanHidup facade.
+ * The DDGuru facade.
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-class AngkaHarapanHidup extends Facade
+class DDGuru extends Facade
 {
     /**
      * Get the registered name of the component.
@@ -17,6 +17,6 @@ class AngkaHarapanHidup extends Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'angka-harapan-hidup';
+        return 'dd-guru';
     }
 }

@@ -3,11 +3,11 @@
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 
-class CreateAngkaHarapanHidupsTable extends Migration {
+class CreateDDGurusTable extends Migration {
 
 	public function up()
 	{
-		Schema::create('angka_harapan_hidups', function(Blueprint $table) {
+		Schema::create('dd_gurus', function(Blueprint $table) {
 			$table->increments('id');
 			$table->string('negara', 191);
 			$table->integer('province_id')->unsigned()->nullable()->index();
@@ -22,6 +22,6 @@ class CreateAngkaHarapanHidupsTable extends Migration {
 
 	public function down()
 	{
-		Schema::drop('angka_harapan_hidups');
+		Schema::drop('dd_gurus');
 	}
 }

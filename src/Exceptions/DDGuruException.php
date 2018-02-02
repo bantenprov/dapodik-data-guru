@@ -1,14 +1,14 @@
-<?php namespace Bantenprov\AngkaHarapanHidup\Exceptions;
+<?php namespace Bantenprov\DDGuru\Exceptions;
 
 use Exception;
 
 /**
- * The AngkaHarapanHidupException class.
+ * The DDGuruException class.
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-class AngkaHarapanHidupException extends Exception
+class DDGuruException extends Exception
 {
     //
 }

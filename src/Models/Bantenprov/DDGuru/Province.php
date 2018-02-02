@@ -1,6 +1,7 @@
 <?php
 
-namespace App\Models\Bantenprov\AngkaHarapanHidup;
+namespace Bantenprov\DDGuru\Models\Bantenprov\DDGuru;
+
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;

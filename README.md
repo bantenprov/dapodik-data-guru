@@ -171,6 +171,3 @@ Vue.component('dd-guru-pie-02', DDGuruPie02);
 import DDGuruPie03 from './components/views/bantenprov/dd-guru/DDGuruPie03.vue';
 Vue.component('dd-guru-pie-03', DDGuruPie03);
 ```
-
-
-

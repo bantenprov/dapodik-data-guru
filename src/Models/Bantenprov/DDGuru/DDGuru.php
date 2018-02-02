@@ -1,14 +1,14 @@
 <?php
 
-namespace App\Models\Bantenprov\AngkaHarapanHidup;
+namespace Bantenprov\DDGuru\Models\Bantenprov\DDGuru;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class AngkaHarapanHidup extends Model 
+class DDGuru extends Model
 {
 
-    protected $table = 'angka_harapan_hidups';
+    protected $table = 'dd_gurus';
     public $timestamps = true;
 
     use SoftDeletes;
@@ -16,4 +16,15 @@ class AngkaHarapanHidup extends Model
     protected $dates = ['deleted_at'];
     protected $fillable = array('negara', 'province_id', 'kab_kota', 'regency_id', 'tahun', 'data');
 
+    public function getProvince()
+    {
+        return $this->hasOne('Bantenprov\DDGuru\Models\Bantenprov\DDGuru\Province','id','province_id');
+    }
+
+    public function getRegency()
+    {
+        return $this->hasOne('Bantenprov\DDGuru\Models\Bantenprov\DDGuru\Regency','id','regency_id');
+    }
+
 }
+

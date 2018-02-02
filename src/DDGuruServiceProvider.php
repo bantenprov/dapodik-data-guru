@@ -1,15 +1,15 @@
-<?php namespace Bantenprov\AngkaHarapanHidup;
+<?php namespace Bantenprov\DDGuru;
 
 use Illuminate\Support\ServiceProvider;
-use Bantenprov\AngkaHarapanHidup\Console\Commands\AngkaHarapanHidupCommand;
+use Bantenprov\DDGuru\Console\Commands\DDGuruCommand;
 
 /**
- * The AngkaHarapanHidupServiceProvider class
+ * The DDGuruServiceProvider class
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-class AngkaHarapanHidupServiceProvider extends ServiceProvider
+class DDGuruServiceProvider extends ServiceProvider
 {
 
     /**
@@ -33,6 +33,7 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
         $this->viewHandle();
         $this->assetHandle();
         $this->migrationHandle();
+        $this->publicHandle();
     }
 
     /**
@@ -42,15 +43,15 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->singleton('angka-harapan-hidup', function ($app) {
-            return new AngkaHarapanHidup;
+        $this->app->singleton('dd-guru', function ($app) {
+            return new DDGuru;
         });
 
-        $this->app->singleton('command.angka-harapan-hidup', function ($app) {
-            return new AngkaHarapanHidupCommand;
+        $this->app->singleton('command.dd-guru', function ($app) {
+            return new DDGuruCommand;
         });
 
-        $this->commands('command.angka-harapan-hidup');
+        $this->commands('command.dd-guru');
     }
 
     /**
@@ -61,8 +62,8 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
     public function provides()
     {
         return [
-            'angka-harapan-hidup',
-            'command.angka-harapan-hidup',
+            'dd-guru',
+            'command.dd-guru',
         ];
     }
 
@@ -84,9 +85,9 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
     protected function configHandle()
     {
         $packageConfigPath = __DIR__.'/config/config.php';
-        $appConfigPath     = config_path('angka-harapan-hidup.php');
+        $appConfigPath     = config_path('dd-guru.php');
 
-        $this->mergeConfigFrom($packageConfigPath, 'angka-harapan-hidup');
+        $this->mergeConfigFrom($packageConfigPath, 'dd-guru');
 
         $this->publishes([
             $packageConfigPath => $appConfigPath,
@@ -102,10 +103,10 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
     {
         $packageTranslationsPath = __DIR__.'/resources/lang';
 
-        $this->loadTranslationsFrom($packageTranslationsPath, 'angka-harapan-hidup');
+        $this->loadTranslationsFrom($packageTranslationsPath, 'dd-guru');
 
         $this->publishes([
-            $packageTranslationsPath => resource_path('lang/vendor/angka-harapan-hidup'),
+            $packageTranslationsPath => resource_path('lang/vendor/dd-guru'),
         ], 'lang');
     }
 
@@ -118,10 +119,10 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
     {
         $packageViewsPath = __DIR__.'/resources/views';
 
-        $this->loadViewsFrom($packageViewsPath, 'angka-harapan-hidup');
+        $this->loadViewsFrom($packageViewsPath, 'dd-guru');
 
         $this->publishes([
-            $packageViewsPath => resource_path('views/vendor/angka-harapan-hidup'),
+            $packageViewsPath => resource_path('views/vendor/dd-guru'),
         ], 'views');
     }
 
@@ -136,7 +137,7 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
 
         $this->publishes([
             $packageAssetsPath => resource_path('assets'),
-        ], 'ahh-assets');
+        ], 'dd-guru-assets');
     }
 
     /**
@@ -153,5 +154,14 @@ class AngkaHarapanHidupServiceProvider extends ServiceProvider
         $this->publishes([
             $packageMigrationsPath => database_path('migrations')
         ], 'migrations');
+    }
+
+    public function publicHandle()
+    {
+        $packagePublicPath = __DIR__.'/public';
+
+        $this->publishes([
+            $packagePublicPath => base_path('public')
+        ], 'dd-guru-public');
     }
 }

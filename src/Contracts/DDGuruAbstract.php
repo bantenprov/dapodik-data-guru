@@ -1,12 +1,12 @@
-<?php namespace Bantenprov\AngkaHarapanHidup\Contracts;
+<?php namespace Bantenprov\DDGuru\Contracts;
 
 /**
- * The AngkaHarapanHidupAbstract class
+ * The DDGuruAbstract class
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-abstract class AngkaHarapanHidupAbstract
+abstract class DDGuruAbstract
 {
     //
 }

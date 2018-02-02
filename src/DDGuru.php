@@ -1,15 +1,15 @@
-<?php namespace Bantenprov\AngkaHarapanHidup;
+<?php namespace Bantenprov\DDGuru;
 
 /**
- * The AngkaHarapanHidup class.
+ * The DDGuru class.
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-class AngkaHarapanHidup
+class DDGuru
 {
     public function welcome()
     {
-        return 'Welcome to Bantenprov\AngkaHarapanHidup package';
+        return 'Welcome to Bantenprov\DDGuru package';
     }
 }

@@ -1,12 +1,12 @@
-<?php namespace Bantenprov\AngkaHarapanHidup\Contracts;
+<?php namespace Bantenprov\DDGuru\Contracts;
 
 /**
- * The AngkaHarapanHidupInterface interface
+ * The DDGuruInterface interface
  *
- * @package Bantenprov\AngkaHarapanHidup
+ * @package Bantenprov\DDGuru
  * @author  bantenprov <developer.bantenprov@gmail.com>
  */
-interface AngkaHarapanHidupInterface
+interface DDGuruInterface
 {
     //
 }
