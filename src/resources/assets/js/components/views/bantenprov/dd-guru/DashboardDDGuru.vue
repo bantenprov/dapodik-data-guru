@@ -83,7 +83,7 @@
         <div class="card mb-3">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Dapodik Data Guru Berdasarkan Tahun
+            Dapodik Data Guru Berdasarkan Kategori
           </div>
           <div class="card-body">
             <dd-guru-pie-02></dd-guru-pie-02>
@@ -96,7 +96,7 @@
         <div class="card mb-3">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Dapodik Data Guru Berdasarkan Tahun
+            Dapodik Data Guru Berdasarkan Kategori
           </div>
           <div class="card-body">
             <dd-guru-bar-02></dd-guru-bar-02>
