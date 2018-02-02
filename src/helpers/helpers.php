@@ -1,8 +1,8 @@
 <?php
 
-if (! function_exists('AngkaHarapanHidup')) {
-    function AngkaHarapanHidup()
+if (! function_exists('DDGuru')) {
+    function DDGuru()
     {
-        return 'Welcome to function AngkaHarapanHidup() for Bantenprov\AngkaHarapanHidup package';
+        return 'Welcome to function DDGuru() for Bantenprov\DDGuru package';
     }
 }
