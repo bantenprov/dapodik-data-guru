@@ -1,0 +1,111 @@
+[
+    {
+      "xAxis": {
+        "type": "data-guru",
+        "region": "Provinsi",
+        "name": "Banten",
+        "yyyy": "2017 - 2018",
+        "semester": "Genap",
+        "tingkat": "TOTAL",
+        "group": "Jumlah",
+        "index": "banten-2017-2018-genap-total-jumlah",
+        "data": [
+          "Kab. Tangerang",
+          "Kota Tangerang",
+          "Kab. Pandeglang",
+          "Kab. Serang",
+          "Kota tangerang Selatan",
+          "Kab. Lebak",
+          "Kota Serang",
+          "Kota Cilegon",
+          "Total"
+        ]
+      },
+      "series": [
+        {
+          "data": [
+            22.119,
+            14.831,
+            13.124,
+            12.035,
+            11.779,
+            11.074,
+            6.058,
+            4.404
+          ]
+        }
+      ]
+    },
+    {
+      "xAxis": {
+        "type": "data-guru",
+        "region": "Provinsi",
+        "name": "Banten",
+        "yyyy": "2017 - 2018",
+        "semester": "Genap",
+        "tingkat": "TOTAL",
+        "group": "Laki-laki",
+        "index": "banten-2017-2018-genap-total-laki-laki",
+        "data": [
+          "Kab. Tangerang",
+          "Kota Tangerang",
+          "Kab. Pandeglang",
+          "Kab. Serang",
+          "Kota tangerang Selatan",
+          "Kab. Lebak",
+          "Kota Serang",
+          "Kota Cilegon"
+        ]
+      },
+      "series": [
+        {
+          "data": [
+            8.516,
+            5.387,
+            5.645,
+            4.867,
+            4.497,
+            5.064,
+            1.965,
+            1.245
+          ]
+        }
+      ]
+    },
+    {
+      "xAxis": {
+        "type": "data-guru",
+        "region": "Provinsi",
+        "name": "Banten",
+        "yyyy": "2017 - 2018",
+        "semester": "Genap",
+        "tingkat": "TOTAL",
+        "group": "Perempuan",
+        "index": "banten-2017-2018-genap-total-perempuan",
+        "data": [
+          "Kab. Tangerang",
+          "Kota Tangerang",
+          "Kab. Pandeglang",
+          "Kab. Serang",
+          "Kota tangerang Selatan",
+          "Kab. Lebak",
+          "Kota Serang",
+          "Kota Cilegon"
+        ]
+      },
+      "series": [
+        {
+          "data": [
+            13.603,
+            9.444,
+            7.479,
+            7.168,
+            7.282,
+            6.01,
+            4.093,
+            3.159
+          ]
+        }
+      ]
+    }
+  ]
