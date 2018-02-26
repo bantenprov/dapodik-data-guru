@@ -8,41 +8,41 @@
       "semester": "Genap",
       "tingkat": "Total",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-total-jumlah"
+      "title": "Total Guru 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
           {
-            "value": 1725,
+            "value": 22199,
             "name": "Kab Tangerang"
           },
           {
-            "value": 1151,
+            "value": 13124,
             "name": "Kab Pandeglang"
           },
           {
-            "value": 1108,
+            "value": 1104,
             "name": "Kab Lebak"
           },
           {
-            "value": 1096,
+            "value": 12035,
             "name": "Kab Serang"
           },
           {
-            "value": 905,
+            "value": 14831,
             "name": "Kota Tangerang"
           },
           {
-            "value": 689,
+            "value": 11779,
             "name": "Kota Tangerang Selatan"
           },
           {
-            "value": 414,
+            "value": 6058,
             "name": "Kota Serang"
           },
           {
-            "value": 274,
+            "value": 4404,
             "name": "Kota Cilegon"
           }
         ]
@@ -57,42 +57,42 @@
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "Total",
-      "group": "Negeri",
-      "index": "banten-2017-2018-genap-total-negeri"
+      "group": "Laki-Laki",
+      "title": "Total Guru Laki-Laki"
     },
     "series": [
       {
         "data": [
           {
-            "value": 877,
+            "value": 8516,
             "name": "Kab. Tangerang"
           },
           {
-            "value": 995,
+            "value": 5645,
             "name": "Kab. Pandeglang"
           },
           {
-            "value": 997,
+            "value": 5064,
             "name": "Kab. Lebak"
           },
           {
-            "value": 832,
+            "value": 4867,
             "name": "Kab. Serang"
           },
           {
-            "value": 394,
+            "value": 5387,
             "name": "Kota Tangerang"
           },
           {
-            "value": 198,
+            "value": 4497,
             "name": "Kota Tangerang Selatan"
           },
           {
-            "value": 271,
+            "value": 1965,
             "name": "Kota Serang"
           },
           {
-            "value": 171,
+            "value": 1245,
             "name": "Kota Cilegon"
           }
         ]
@@ -107,42 +107,42 @@
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "Total",
-      "group": "Swasta",
-      "index": "banten-2017-2018-genap-total-swasta"
+      "group": "Perempuan",
+      "title": "Total Guru Perempuan"
     },
     "series": [
       {
         "data": [
           {
-            "value": 985,
+            "value": 13603,
             "name": "Kab. Tangerang"
           },
           {
-            "value": 860,
+            "value": 7479,
             "name": "Kab. Pandeglang"
           },
           {
-            "value": 789,
+            "value": 6010,
             "name": "Kab. Lebak"
           },
           {
-            "value": 730,
+            "value": 7168,
             "name": "Kab. Serang"
           },
           {
-            "value": 476,
+            "value": 9444,
             "name": "Kota Tangerang"
           },
           {
-            "value": 317,
+            "value": 7282,
             "name": "Kota tangerang Selatan"
           },
           {
-            "value": 252,
+            "value": 4093,
             "name": "Kota Serang"
           },
           {
-            "value": 180,
+            "value": 3159,
             "name": "Kota Cilegon"
           }
         ]

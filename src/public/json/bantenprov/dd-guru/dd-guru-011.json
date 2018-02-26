@@ -1,14 +1,14 @@
 [
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-sekolah",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "TOTAL",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-total-jumlah",
+      "title": "Jumlah Guru Provinsi Banten 2017-2018 Genap",
       "data": [
         "Kab. Tangerang",
         "Kab. Pandeglang",
@@ -24,29 +24,28 @@
     "series": [
       {
         "data": [
-            1725,
-            1151,
-            1108,
-            1096,
-            905,
-            689,
-            414,
-            274,
-            7362
+            22119,
+            13124,
+            11074,
+            12035,
+            14831,
+            11779,
+            6058,
+            4404
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-sekolah",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "TOTAL",
       "group": "Laki-laki",
-      "index": "banten-2017-2018-genap-total-laki-laki",
+      "title": "Jumlah Guru Laki-Laki 2017-2018 Genap",
       "data": [
         "Kab. Tangerang",
         "Kab. Pandeglang",
@@ -61,28 +60,28 @@
     "series": [
       {
         "data": [
-            877,
-            995,
-            997,
-            832,
-            394,
-            198,
-            271,
-            171
+            8516,
+            5645,
+            5064,
+            4867,
+            5387,
+            4497,
+            1965,
+            1245
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "data-guru",
+      "type": "data-sekolah",
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
       "tingkat": "TOTAL",
       "group": "Perempuan",
-      "index": "banten-2017-2018-genap-total-perempuan",
+      "title": "Jumlah Guru Perempuan 2017-2018 Genap ",
       "data": [
         "Kab. Tangerang",
         "Kab. Pandeglang",
@@ -97,14 +96,14 @@
     "series": [
       {
         "data": [
-            848,
-            156,
-            111,
-            264,
-            511,
-            491,
-            143,
-            103
+            13603,
+            7479,
+            6010,
+            7168,
+            9444,
+            7282,
+            4093,
+            3159
         ]
       }
     ]
