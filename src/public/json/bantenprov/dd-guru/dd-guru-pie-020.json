@@ -8,18 +8,200 @@
       "semester": "Genap",
       "tingkat": "SD",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-sd-jumlah"
+      "title": "Jumlah Guru SD 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
-          {"value":985,"name": "Kab. Tangerang"},
-          {"value":860,"name": "Kab. Pandeglang"},
-          {"value":789,"name": "Kab. Lebak"},
-          {"value":730,"name": "Kab. Serang"},
-          {"value":476,"name": "Kota Tangerang"},
-          {"value":317,"name": "Kota tangerang Selatan"},
-          {"value":252,"name": "Kota Serang"},
+          {"value":1253,"name": "Kab. Tangerang"},
+          {"value":8506,"name": "Kab. Pandeglang"},
+          {"value":6578,"name": "Kab. Lebak"},
+          {"value":6794,"name": "Kab. Serang"},
+          {"value":7792,"name": "Kota Tangerang"},
+          {"value":5911,"name": "Kota tangerang Selatan"},
+          {"value":2991,"name": "Kota Serang"},
+          {"value":2349,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SD",
+      "group": "Laki-Laki",
+      "title": "Jumlah Guru SD Laki-Laki 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value": 4008  ,"name": "Kab. Tangerang"},
+          {"value": 3305  ,"name": "Kab. Pandeglang"},
+          {"value": 2798  ,"name": "Kab. Lebak"},
+          {"value": 2395  ,"name": "Kab. Serang"},
+          {"value": 2232  ,"name": "Kota Tangerang"},
+          {"value": 1848  ,"name": "Kota tangerang Selatan"},
+          {"value": 764 ,"name": "Kota Serang"},
+          {"value": 520 ,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SD",
+      "group": "Perempuan",
+      "title": "Jumlah Guru SD Perempuan 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value": 8528  ,"name": "Kab. Tangerang"},
+          {"value": 5202  ,"name": "Kab. Pandeglang"},
+          {"value": 3780  ,"name": "Kab. Lebak"},
+          {"value": 4399  ,"name": "Kab. Serang"},
+          {"value": 5560  ,"name": "Kota Tangerang"},
+          {"value": 4063  ,"name": "Kota tangerang Selatan"},
+          {"value": 2227  ,"name": "Kota Serang"},
+          {"value": 1829  ,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMP",
+      "group": "Jumlah",
+      "title": "Jumlah Guru SMP 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":4802,"name": "Kab. Tangerang"},
+          {"value":2196,"name": "Kab. Pandeglang"},
+          {"value":2511,"name": "Kab. Lebak"},
+          {"value":2715,"name": "Kab. Serang"},
+          {"value":3027,"name": "Kota Tangerang"},
+          {"value":2778,"name": "Kota tangerang Selatan"},
+          {"value":1281,"name": "Kota Serang"},
+          {"value":885,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMP",
+      "group": "Laki-laki",
+      "title": "Jumlah Guru SMP Laki-Laki 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2150,"name": "Kab. Tangerang"},
+          {"value":1094,"name": "Kab. Pandeglang"},
+          {"value":1286,"name": "Kab. Lebak"},
+          {"value":1204,"name": "Kab. Serang"},
+          {"value":1288,"name": "Kota Tangerang"},
+          {"value":1215,"name": "Kota tangerang Selatan"},
+          {"value":464,"name": "Kota Serang"},
+          {"value":275,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMP",
+      "group": "Perempuan",
+      "title": "Jumlah Guru SMP Perempuan 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2652,"name": "Kab. Tangerang"},
+          {"value":1102,"name": "Kab. Pandeglang"},
+          {"value":1225,"name": "Kab. Lebak"},
+          {"value":1511,"name": "Kab. Serang"},
+          {"value":1739,"name": "Kota Tangerang"},
+          {"value":1563,"name": "Kota tangerang Selatan"},
+          {"value":817,"name": "Kota Serang"},
+          {"value":580,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMA",
+      "group": "Jumlah",
+      "title": "Jumlah Guru SMA 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":2291,"name": "Kab. Tangerang"},
+          {"value":835,"name": "Kab. Pandeglang"},
+          {"value":976,"name": "Kab. Lebak"},
+          {"value":1280,"name": "Kab. Serang"},
+          {"value":1548,"name": "Kota Tangerang"},
+          {"value":1614,"name": "Kota tangerang Selatan"},
+          {"value":633,"name": "Kota Serang"},
+          {"value":530,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMA",
+      "group": "Laki-Laki",
+      "title": "Jumlah Guru SMA Laki-Laki 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":1081,"name": "Kab. Tangerang"},
+          {"value":399,"name": "Kab. Pandeglang"},
+          {"value":531,"name": "Kab. Lebak"},
+          {"value":647,"name": "Kab. Serang"},
+          {"value":703,"name": "Kota Tangerang"},
+          {"value":709,"name": "Kota tangerang Selatan"},
+          {"value":250,"name": "Kota Serang"},
           {"value":180,"name": "Kota Cilegon"}
         ]
       }
@@ -32,21 +214,21 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SD",
-      "group": "Negeri",
-      "index": "banten-2017-2018-genap-sd-negeri"
+      "tingkat": "SMA",
+      "group": "Perempuan",
+      "title": "Jumlah Guru SMA Perempuan 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
-          {"value":	758	,"name": "Kab. Tangerang"},
-          {"value":	850	,"name": "Kab. Pandeglang"},
-          {"value":	775	,"name": "Kab. Lebak"},
-          {"value":	705	,"name": "Kab. Serang"},
-          {"value":	338	,"name": "Kota Tangerang"},
-          {"value":	157	,"name": "Kota tangerang Selatan"},
-          {"value":	224	,"name": "Kota Serang"},
-          {"value":	150	,"name": "Kota Cilegon"}
+          {"value":1210,"name": "Kab. Tangerang"},
+          {"value":436,"name": "Kab. Pandeglang"},
+          {"value":445,"name": "Kab. Lebak"},
+          {"value":633,"name": "Kab. Serang"},
+          {"value":845,"name": "Kota Tangerang"},
+          {"value":875,"name": "Kota tangerang Selatan"},
+          {"value":383,"name": "Kota Serang"},
+          {"value":350,"name": "Kota Cilegon"}
         ]
       }
     ]
@@ -58,47 +240,21 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SD",
-      "group": "Swasta",
-      "index": "banten-2017-2018-genap-total-swasta"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":	227	,"name": "Kab. Tangerang"},
-          {"value":	10	,"name": "Kab. Pandeglang"},
-          {"value":	14	,"name": "Kab. Lebak"},
-          {"value":	25	,"name": "Kab. Serang"},
-          {"value":	160	,"name": "Kota Tangerang"},
-          {"value":	28	,"name": "Kota tangerang Selatan"},
-          {"value":	30	,"name": "Kota Serang"},
-          {"value":	632	,"name": "Kota Cilegon"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "data-guru",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2017 - 2018",
-      "semester": "Genap",
-      "tingkat": "SMP",
+      "tingkat": "SMK",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-smp-jumlah"
+      "title": "Jumlah Guru SMK 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
-          {"value":387,"name": "Kab. Tangerang"},
-          {"value":149,"name": "Kab. Pandeglang"},
-          {"value":202,"name": "Kab. Lebak"},
-          {"value":196,"name": "Kab. Serang"},
-          {"value":199,"name": "Kota Tangerang"},
-          {"value":190,"name": "Kota tangerang Selatan"},
-          {"value":78,"name": "Kota Serang"},
-          {"value":42,"name": "Kota Cilegon"}
+          {"value":2348,"name": "Kab. Tangerang"},
+          {"value":1407,"name": "Kab. Pandeglang"},
+          {"value":902,"name": "Kab. Lebak"},
+          {"value":1212,"name": "Kab. Serang"},
+          {"value":2288,"name": "Kota Tangerang"},
+          {"value":1310,"name": "Kota tangerang Selatan"},
+          {"value":1026,"name": "Kota Serang"},
+          {"value":618,"name": "Kota Cilegon"}
         ]
       }
     ]
@@ -110,21 +266,21 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SMP",
-      "group": "Laki laki",
-      "index": "banten-2017-2018-genap-smp-negeri"
+      "tingkat": "SMK",
+      "group": "Laki-Laki",
+      "title": "Jumlah Guru SMK Laki-Laki 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
-          {"value":77,"name": "Kab. Tangerang"},
-          {"value":114,"name": "Kab. Pandeglang"},
-          {"value":170,"name": "Kab. Lebak"},
-          {"value":92,"name": "Kab. Serang"},
-          {"value":32,"name": "Kota Tangerang"},
-          {"value":22,"name": "Kota tangerang Selatan"},
-          {"value":29,"name": "Kota Serang"},
-          {"value":12,"name": "Kota Cilegon"}
+          {"value":1247,"name": "Kab. Tangerang"},
+          {"value":773,"name": "Kab. Pandeglang"},
+          {"value":416,"name": "Kab. Lebak"},
+          {"value":612,"name": "Kab. Serang"},
+          {"value":1129,"name": "Kota Tangerang"},
+          {"value":655,"name": "Kota tangerang Selatan"},
+          {"value":451,"name": "Kota Serang"},
+          {"value":252,"name": "Kota Cilegon"}
         ]
       }
     ]
@@ -136,21 +292,21 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SMP",
-      "group": "Swasta",
-      "index": "banten-2017-2018-genap-sma-swasta"
+      "tingkat": "SMK",
+      "group": "Perempuan",
+      "title": "Jumlah Guru SMK Perempuan 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
-          {"value":310,"name": "Kab. Tangerang"},
-          {"value":35,"name": "Kab. Pandeglang"},
-          {"value":32,"name": "Kab. Lebak"},
-          {"value":104,"name": "Kab. Serang"},
-          {"value":167,"name": "Kota Tangerang"},
-          {"value":168,"name": "Kota tangerang Selatan"},
-          {"value":49,"name": "Kota Serang"},
-          {"value":30,"name": "Kota Cilegon"}
+          {"value":1101,"name": "Kab. Tangerang"},
+          {"value":634,"name": "Kab. Pandeglang"},
+          {"value":486,"name": "Kab. Lebak"},
+          {"value":600,"name": "Kab. Serang"},
+          {"value":1159,"name": "Kota Tangerang"},
+          {"value":655,"name": "Kota tangerang Selatan"},
+          {"value":575,"name": "Kota Serang"},
+          {"value":366,"name": "Kota Cilegon"}
         ]
       }
     ]
@@ -162,21 +318,21 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SMA",
+      "tingkat": "SLB",
       "group": "Jumlah",
-      "index": "banten-2017-2018-genap-sma-jumlah"
+      "title": "Jumlah Guru SLB 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
-          {"value":153,"name": "Kab. Tangerang"},
-          {"value":37,"name": "Kab. Pandeglang"},
-          {"value":53,"name": "Kab. Lebak"},
-          {"value":79,"name": "Kab. Serang"},
-          {"value":84,"name": "Kota Tangerang"},
-          {"value":85,"name": "Kota tangerang Selatan"},
-          {"value":31,"name": "Kota Serang"},
-          {"value":23,"name": "Kota Cilegon"}
+          {"value":142,"name": "Kab. Tangerang"},
+          {"value":180,"name": "Kab. Pandeglang"},
+          {"value":107,"name": "Kab. Lebak"},
+          {"value":34,"name": "Kab. Serang"},
+          {"value":176,"name": "Kota Tangerang"},
+          {"value":166,"name": "Kota tangerang Selatan"},
+          {"value":127,"name": "Kota Serang"},
+          {"value":52,"name": "Kota Cilegon"}
         ]
       }
     ]
@@ -188,47 +344,47 @@
       "name": "Banten",
       "yyyy": "2017 - 2018",
       "semester": "Genap",
-      "tingkat": "SMA",
-      "group": "Negeri",
-      "index": "banten-2017-2018-genap-sma-negeri"
+      "tingkat": "SLB",
+      "group": "Laki-Laki",
+      "title": "Jumlah Guru SLB Laki-Laki 2017-2018 Genap"
     },
     "series": [
       {
         "data": [
-          {"value":29,"name": "Kab. Tangerang"},
-          {"value":18,"name": "Kab. Pandeglang"},
-          {"value":35,"name": "Kab. Lebak"},
-          {"value":26,"name": "Kab. Serang"},
-          {"value":15,"name": "Kota Tangerang"},
-          {"value":12,"name": "Kota tangerang Selatan"},
-          {"value":8,"name": "Kota Serang"},
-          {"value":5,"name": "Kota Cilegon"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "data-guru",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2017 - 2018",
-      "semester": "Genap",
-      "tingkat": "SMA",
-      "group": "Swasta",
-      "index": "banten-2017-2018-genap-sma-swasta"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":124,"name": "Kab. Tangerang"},
-          {"value":19,"name": "Kab. Pandeglang"},
-          {"value":18,"name": "Kab. Lebak"},
-          {"value":53,"name": "Kab. Serang"},
-          {"value":69,"name": "Kota Tangerang"},
-          {"value":73,"name": "Kota tangerang Selatan"},
-          {"value":23,"name": "Kota Serang"},
+          {"value":30,"name": "Kab. Tangerang"},
+          {"value":75,"name": "Kab. Pandeglang"},
+          {"value":33,"name": "Kab. Lebak"},
+          {"value":9,"name": "Kab. Serang"},
+          {"value":35,"name": "Kota Tangerang"},
+          {"value":40,"name": "Kota tangerang Selatan"},
+          {"value":36,"name": "Kota Serang"},
           {"value":18,"name": "Kota Cilegon"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SLB",
+      "group": "Perempuan",
+      "title": "Jumlah Guru SLB Perempuan 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":112,"name": "Kab. Tangerang"},
+          {"value":105,"name": "Kab. Pandeglang"},
+          {"value":74,"name": "Kab. Lebak"},
+          {"value":25,"name": "Kab. Serang"},
+          {"value":141,"name": "Kota Tangerang"},
+          {"value":126,"name": "Kota tangerang Selatan"},
+          {"value":91,"name": "Kota Serang"},
+          {"value":34,"name": "Kota Cilegon"}
         ]
       }
     ]

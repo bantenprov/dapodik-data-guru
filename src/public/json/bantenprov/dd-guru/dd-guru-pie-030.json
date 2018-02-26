@@ -1,147 +1,182 @@
-[{
-  "xAxis": {
-    "type": "data-guru",
-    "region": "Provinsi",
-    "name": "Banten",
-    "yyyy": "2017 - 2018",
-    "semester": "Genap",
-    "tingkat": "Total",
-    "group": "Jumlah",
-    "index": "banten-2017-2018-genap-total-jumlah"
+[
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "Total",
+      "group": "Jumlah",
+      "title": "Total Guru Provinsi Banten 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 95424,
+            "name": "Jumlah"
+          },
+          {
+            "value": 37186,
+            "name": "Laki-Laki"
+          },
+          {
+            "value": 58238,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
   },
-  "series": [
-    {
-      "data": [
-        {
-          "value": 7362,
-          "name": "Jumlah"
-        },
-        {
-          "value": 4735,
-          "name": "Negeri"
-        },
-        {
-          "value": 2627,
-          "name": "Swasta"
-        }
-      ]
-    }
-  ]
- },{
-  "xAxis": {
-    "type": "data-guru",
-    "region": "Provinsi",
-    "name": "Banten",
-    "yyyy": "2017 - 2018",
-    "semester": "Genap",
-    "tingkat": "SD",
-    "group": "Jumlah",
-    "index": "banten-2017-2018-genap-sd-jumlah"
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SD",
+      "group": "Jumlah",
+      "title": "Total Guru SD Provinsi Banten 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 53457,
+            "name": "Jumlah"
+          },
+          {
+            "value": 17869,
+            "name": "Laki-Laki"
+          },
+          {
+            "value": 35588,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
   },
-  "series": [
-    {
-      "data": [
-        {
-          "value": 4589,
-          "name": "Jumlah"
-        },
-        {
-          "value": 3957,
-          "name": "Negeri"
-        },
-        {
-          "value": 632,
-          "name": "Swasta"
-        }
-      ]
-    }
-  ]
- },{
-  "xAxis": {
-    "type": "data-guru",
-    "region": "Provinsi",
-    "name": "Banten",
-    "yyyy": "2017 - 2018",
-    "semester": "Genap",
-    "tingkat": "SMP",
-    "group": "Jumlah",
-    "index": "banten-2017-2018-genap-smp-jumlah"
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMP",
+      "group": "Jumlah",
+      "title": "Total Guru SMP Provinsi Banten 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 20165,
+            "name": "Jumlah"
+          },
+          {
+            "value": 8976,
+            "name": "Laki-Laki"
+          },
+          {
+            "value": 11189,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
   },
-  "series": [
-    {
-      "data": [
-        {
-          "value": 1443,
-          "name": "Jumlah"
-        },
-        {
-          "value": 548,
-          "name": "Negeri"
-        },
-        {
-          "value": 895,
-          "name": "Swasta"
-        }
-      ]
-    }
-  ]
- },{
-  "xAxis": {
-    "type": "data-guru",
-    "region": "Provinsi",
-    "name": "Banten",
-    "yyyy": "2017 - 2018",
-    "semester": "Genap",
-    "tingkat": "SMP",
-    "group": "Jumlah",
-    "index": "banten-2017-2018-genap-smp-jumlah"
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMA",
+      "group": "Jumlah",
+      "title": "Total Guru SMA Provinsi Banten 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 9707,
+            "name": "Jumlah"
+          },
+          {
+            "value": 4530,
+            "name": "Laki-Laki"
+          },
+          {
+            "value": 5177,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
   },
-  "series": [
-    {
-      "data": [
-        {
-          "value": 545,
-          "name": "Jumlah"
-        },
-        {
-          "value": 148,
-          "name": "Negeri"
-        },
-        {
-          "value": 397,
-          "name": "Swasta"
-        }
-      ]
-    }
-  ]
- },{
-  "xAxis": {
-    "type": "data-guru",
-    "region": "Provinsi",
-    "name": "Banten",
-    "yyyy": "2017 - 2018",
-    "semester": "Genap",
-    "tingkat": "SMK",
-    "group": "Jumlah",
-    "index": "banten-2017-2018-genap-smk-jumlah"
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SMK",
+      "group": "Jumlah",
+      "title": "Total Guru SMK Provinsi Banten 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 11111,
+            "name": "Jumlah"
+          },
+          {
+            "value": 5535,
+            "name": "Laki-Laki"
+          },
+          {
+            "value": 5576,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
   },
-  "series": [
-    {
-      "data": [
-        {
-          "value": 692,
-          "name": "Jumlah"
-        },
-        {
-          "value": 75,
-          "name": "Negeri"
-        },
-        {
-          "value": 617,
-          "name": "Swasta"
-        }
-      ]
-    }
-  ]
- }
+  {
+    "xAxis": {
+      "type": "data-guru",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2017 - 2018",
+      "semester": "Genap",
+      "tingkat": "SLB",
+      "group": "Jumlah",
+      "title": "Total Guru SLB Provinsi Banten 2017-2018 Genap"
+    },
+    "series": [
+      {
+        "data": [
+          {
+            "value": 984,
+            "name": "Jumlah"
+          },
+          {
+            "value": 276,
+            "name": "Laki-Laki"
+          },
+          {
+            "value": 708,
+            "name": "Perempuan"
+          }
+        ]
+      }
+    ]
+  }
 ]

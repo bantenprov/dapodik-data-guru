@@ -4,18 +4,19 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": " Jumlah Guru SD Kabupaten Tangerang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          985,
-          758,
-          227
+          12536,
+          4008,
+          8528
         ]
       }
     ]
@@ -25,18 +26,19 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Pandeglang",
+      "title": "Jumlah Guru SD Kabupaten Pandeglang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          860,
-          850,
-          10
+          8506,
+          3304,
+          5202
         ]
       }
     ]
@@ -46,18 +48,19 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Jumlah Guru SD Kabupaten Lebak",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          789,
-          775,
-          14
+          6578,
+          2798,
+          3780
         ]
       }
     ]
@@ -67,18 +70,19 @@
       "category": "SD",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Jumlah Guru SD Kabupaten Serang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          730,
-          705,
-          25
+          6794,
+          2395,
+          4399
         ]
       }
     ]
@@ -88,18 +92,19 @@
       "category": "SD",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Jumlah Guru SD Kota Tangerang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          476,
-          338,
-          138
+          7792,
+          2232,
+          5560
         ]
       }
     ]
@@ -109,18 +114,19 @@
       "category": "SD",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Jumlah Guru Kota Tangerang Selatan",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          317,
-          157,
-          160
+          5911,
+          1848,
+          4063
         ]
       }
     ]
@@ -130,18 +136,19 @@
       "category": "SD",
       "region": "Kota",
       "name": "Serang",
+      "title": "Jumlah Guru SD Kota Serang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          252,
-          224,
-          28
+          2991,
+          764,
+          2227
         ]
       }
     ]
@@ -151,479 +158,612 @@
       "category": "SD",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Jumlah Guru SD Kota Cilegon",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2349,
+          520,
+          1829
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "title": "Jumlah Guru SMP Kabupaten Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4802,
+          2150,
+          2652
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Guru SMP Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2196,
+          1094,
+          1102
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "title": "Jumlah Guru SMP Kabupaten Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2511,
+          1286,
+          1225
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "title": "Jumlah Guru SMP Kabupaten Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2715,
+          1204,
+          1511
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Tangerang",
+      "title": "Jumlah Guru SMP Kota Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3027,
+          1288,
+          1739
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "title": "Jumlah Guru SMP Kota Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2778,
+          1215,
+          1563
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Serang",
+      "title": "Jumlah Guru SMP Kota Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1281,
+          464,
+          817
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMP",
+      "region": "Kota",
+      "name": "Cilegon",
+      "title": "Jumlah Guru SMP Kota Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          855,
+          275,
+          580
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "title": "Jumlah Guru SMA Kabupaten Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2291,
+          1081,
+          1210
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Guru SMA Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          835,
+          399,
+          436
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "title": "Jumlah Guru SMA Kabupaten Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          976,
+          531,
+          445
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "title": "Jumlah Guru SMA Kabupaten Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1280,
+          647,
+          633
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Tangerang",
+      "title": "Jumlah Guru SMA Kota Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1548,
+          703,
+          845
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "title": "Jumlah Guru SMA Kota Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1614,
+          739,
+          875
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Serang",
+      "title": "Jumlah Guru SMA Kota Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          633,
+          250,
+          383
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMA",
+      "region": "Kota",
+      "name": "Cilegon",
+      "title": "Jumlah Guru SMA Kota Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          530,
+          180,
+          350
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "title": "Jumlah Guru SMK Kabupaten Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2348,
+          1247,
+          1101
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Guru SMK Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1407,
+          773,
+          634
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "title": "Jumlah Guru SMK Kabupaten Lebak",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          902,
+          416,
+          486
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "title": "Jumlah Guru SMK Kabupaten Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1212,
+          612,
+          600
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Tangerang",
+      "title": "Jumlah Guru SMK Kota Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2288,
+          1129,
+          1159
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "title": "Jumlah Guru SMK Kota Tangerang Selatan",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1310,
+          655,
+          655
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Serang",
+      "title": "Jumlah Guru SMK Kota Serang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1026,
+          451,
+          575
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SMK",
+      "region": "Kota",
+      "name": "Cilegon",
+      "title": "Jumlah Guru SMK Kota Cilegon",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          618,
+          252,
+          366
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "title": "Jumlah Guru SLB Kabupaten Tangerang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          142,
+          30,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "SLB",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "title": "Jumlah Guru SLB Kabupaten Pandeglang",
+      "data": [
+        "Jumlah",
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
           180,
-          150,
-          30
+          75,
+          105
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMP",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          387,
-          77,
-          310
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          149,
-          114,
-          35
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
+      "category": "SLB",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Jumlah Guru SLB Kabupaten Lebak",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          202,
-          170,
-          32
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          196,
-          92,
-          104
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kota",
-      "name": "Tangerang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          199,
-          32,
-          167
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          190,
-          22,
-          168
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kota",
-      "name": "Serang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          78,
-          29,
-          49
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP",
-      "region": "Kota",
-      "name": "Cilegon",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          42,
-          12,
-          30
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          153,
-          29,
-          124
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          37,
-          18,
-          19
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          53,
-          35,
-          18
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          79,
-          26,
-          53
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kota",
-      "name": "Tangerang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          84,
-          15,
-          69
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          85,
-          12,
-          73
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kota",
-      "name": "Serang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          31,
-          8,
-          23
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA",
-      "region": "Kota",
-      "name": "Cilegon",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          23,
-          5,
-          18
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          184,
-          12,
-          172
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          87,
-          12,
-          75
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          51,
-          14,
-          37
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          87,
-          9,
-          78
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kota",
-      "name": "Tangerang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          131,
-          9,
-          122
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          81,
-          7,
+          107,
+          33,
           74
         ]
       }
@@ -631,126 +771,22 @@
   },
   {
     "xAxis": {
-      "category": "SMK",
-      "region": "Kota",
-      "name": "Serang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          46,
-          8,
-          38
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMK",
-      "region": "Kota",
-      "name": "Cilegon",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          25,
-          4,
-          21
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SLB",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          16,
-          1,
-          15
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SLB",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          18,
-          1,
-          17
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SLB",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "Jumlah",
-        "Negeri",
-        "Swasta"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          13,
-          3,
-          10
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
       "category": "SLB",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Jumlah Guru SLB Kabupaten Serang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          4,
-          0,
-          4
+          34,
+          9,
+          25
         ]
       }
     ]
@@ -760,18 +796,19 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Jumlah Guru SLB Kota Tangerang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          15,
-          0,
-          15
+          176,
+          35,
+          141
         ]
       }
     ]
@@ -781,18 +818,19 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Jumlah Guru SLB Kota Tangerang Selatan",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          16,
-          0,
-          16
+          166,
+          40,
+          126
         ]
       }
     ]
@@ -802,18 +840,19 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Serang",
+      "title": "Jumlah Guru SLB Kota Serang",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          7,
-          2,
-          5
+          127,
+          36,
+          91
         ]
       }
     ]
@@ -823,18 +862,19 @@
       "category": "SLB",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Jumlah Guru SLB Kota Cilegon",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          4,
-          0,
-          4
+          52,
+          18,
+          34
         ]
       }
     ]

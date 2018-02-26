@@ -4,18 +4,19 @@
       "category": "Total",
       "region": "Kabupaten",
       "name": "Tangerang",
+      "title": "Total Guru Kabuapten Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          1725,
-          877,
-          848
+          22119,
+          8516,
+          13603
         ]
       }
     ]
@@ -25,18 +26,19 @@
       "category": "Total",
       "region": "Kabupaten",
       "name": "Pandeglang",
+      "title": "Total Guru Kabupaten Pandeglang 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          1151,
-          995,
-          156
+          13124,
+          5645,
+          7479
         ]
       }
     ]
@@ -46,18 +48,19 @@
       "category": "Total",
       "region": "Kabupaten",
       "name": "Lebak",
+      "title": "Total Guru Kabupaten Lebak 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          1108,
-          997,
-          111
+          11074,
+          5064,
+          6010
         ]
       }
     ]
@@ -67,18 +70,19 @@
       "category": "Total",
       "region": "Kabupaten",
       "name": "Serang",
+      "title": "Total Guru Kabupaten Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          1096,
-          832,
-          264
+          12035,
+          4867,
+          7168
         ]
       }
     ]
@@ -88,18 +92,19 @@
       "category": "Total",
       "region": "Kota",
       "name": "Tangerang",
+      "title": "Total Guru Kota Tangerang 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          905,
-          394,
-          511
+          14831,
+          5387,
+          9444
         ]
       }
     ]
@@ -109,18 +114,19 @@
       "category": "Total",
       "region": "Kota",
       "name": "Tangerang Selatan",
+      "title": "Total Guru Kota Tangerang Selatan 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          689,
-          198,
-          491
+          11779,
+          4497,
+          7282
         ]
       }
     ]
@@ -130,18 +136,19 @@
       "category": "Total",
       "region": "Kota",
       "name": "Serang",
+      "title": "Total Guru Kota Serang 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          414,
-          271,
-          143
+          6058,
+          1965,
+          4093
         ]
       }
     ]
@@ -151,18 +158,19 @@
       "category": "Total",
       "region": "Kota",
       "name": "Cilegon",
+      "title": "Total Guru Kota Cilegon 2017-2018 Genap",
       "data": [
         "Jumlah",
-        "Negeri",
-        "Swasta"
+        "Laki-Laki",
+        "Perempuan"
       ]
     },
     "series": [
       {
         "data": [
-          274,
-          171,
-          103
+          4404,
+          1245,
+          3159
         ]
       }
     ]
