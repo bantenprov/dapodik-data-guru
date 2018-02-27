@@ -69,9 +69,10 @@ children: [
         sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
     },
     meta: {
-        title: "DD Guru"
+        title: "Dapodik Data Guru"
     }
-	}
+  }
+  //== ...
 ```
 
 ```javascript
@@ -80,7 +81,7 @@ path: '/admin',
 redirect: '/admin/dashboard',
 component: resolve => require(['./AdminLayout.vue'], resolve),
 children: [
-//== ...
+    //== ...
     {
 			path: '/admin/dashboard/dd-guru',
 			components: {
@@ -89,10 +90,10 @@ children: [
 				sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
 			},
 			meta: {
-				title: "DD Guru"
+				title: "Dapodik Data Guru"
 			}
 		}
- //== ...   
+    //== ...   
   ]
 },
 
@@ -117,18 +118,36 @@ children: [
         },
         //== ...
         {
-          name: 'Angka partisipasi kasar',
-          link: '/dashboard/ap-kasar',
+          name: 'Dapodik Data Guru',
+          link: '/dashboard/dd-guru',
           icon: 'fa fa-angle-double-right'
-        }
+        },
   ]
 },
-//== ...        
-      {
-        name: 'Dapodik Data Guru',
-        link: '/dashboard/dd-guru',
-        icon: 'fa fa-angle-double-right'
-      },
+{
+  name: 'Admin',
+  icon: 'fa fa-lock',
+  childType: 'collapse',
+  childItem: [
+    {
+      name: 'Dashboard',
+      icon: 'fa fa-angle-double-right',
+      child: [
+        {
+          name: 'Home',
+          link: '/admin/dashboard/home',
+          icon: 'fa fa-angle-right'
+        },
+        //== ...
+        {
+          name: 'Dapodik Data Guru',
+          link: 'admin/dashboard/dd-guru',
+          icon: 'fa fa-angle-double-right'
+        }
+      ]
+    },
+  ]
+}
 ```
 
 #### Tambahkan components `resources/assets/js/components.js` :
